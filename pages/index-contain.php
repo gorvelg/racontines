@@ -1,13 +1,11 @@
 <div id="presentation-box">
   <div>
     <h2>Laissez moi vous raconter...</h2>
-    <p>
-      Bonjour, je m'appelle Christine, je suis créatrice, liseuse et
-      "raconteuse" d'histoires. Lorem, ipsum dolor sit amet consectetur
-      adipisicing elit. Doloribus, sed! Velit reiciendis corporis soluta maiores
-      iusto error distinctio nam, natus facere placeat suscipit reprehenderit
-      eligendi blanditiis, aut nemo. Aperiam, officiis.
-    </p>
+    <p>Tout d’abord Maman d'une sacrée tribu, je suis tombée il y a plus de 30 ans dans l’univers fabuleux de la littérature jeunesse, les lectures du soir, Bonsoir m'ont naturellement amenée à des positions de lectrice ici ou là.</p>
+<p>Après 13 années d’animation bénévole en bibliothèque, dont 9 en temps d’accueil bébés lecteurs et 3 avec une formation à la posture d’accueillante en LAEP, je me suis lancée, en mai 2020 (oui, en plein confinement !) dans la création de supports à Histoires sous forme de boîtes, Tapis narratifs, Tabliers, Racontines de Christine , Kamishibaïs, etc. et autres choses qui ne portent pas de noms…</p>
+<p>Ces créations sont à destination des structures d’accueil petite enfance, RPE, écoles maternelles, Médiathèques, centres de loisirs, associations mettant en place des ateliers d’accompagnement à la parentalité et des familles pour un public de 9mois à 6 ans, mais qui fonctionnent aussi très bien jusqu’à 99ans !</p>
+<p>C’est ainsi, qu’est née « Dans la Boîte de Christine », Christine, liseuse et raconteuse d’histoires pour enfants sages ou pas… </p>
+
     <div class="presentation-btn">
       <a href="tarifs.php"
         ><button class="btn btn-about">En savoir plus...</button></a
